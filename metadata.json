@@ -1,0 +1,7 @@
+{
+  "name": "SymphonyAI - Intelligent Composer Studio",
+  "description": "A professional-grade AI music composition tool featuring intelligent track generation, real-time mixing with feedback, lyrics-to-melody matching, and version control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
