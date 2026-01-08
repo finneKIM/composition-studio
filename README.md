@@ -1,2 +1,1 @@
-# composition-studio
-beat/melody/music
+## composition-studio\n\nInitial commit for main branch.
