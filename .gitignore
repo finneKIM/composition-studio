@@ -4,48 +4,21 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 lerna-debug.log*
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
-.report/
+node_modules
+dist
+dist-ssr
+*.local
 
-# Node.js
-# attention: these are not to be used together, so comment one out!
-# node_modules
-# jspm_packages
-
-# dotenv environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# next.js build output
-.next/
-out/
-
-# sveltekit build output
-.svelte-kit/
-
-# misc
-.DS_Store
-Thumbs.db
-
-# yarn
-.yarn/
-
-# editor directories and files
-.vscode
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
 .idea
-*.sublime-project
-*.sublime-workspace
-
-# pnpm
-node_modules/.pnpm
-
-# vercel
-.vercel/
-
-# Mac
 .DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
